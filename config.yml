@@ -1,0 +1,12 @@
+# @format
+bot:
+  ID: ''
+  TOKEN: ''
+  PREFIX: '?'
+  EMBED_COLOR: ''
+  OWNERS: ['']
+  MONGO: ''
+links:
+  INVITE: ''
+  SUPPORT: ''
+  VOTE: ''
